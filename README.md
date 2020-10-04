@@ -2,27 +2,13 @@
 
 final name = Mudit;
 
-
-
-
 var work, mood;
-
-
 
 if(mood == Flutter)
 
-
-
-
 work = Flutter;
 
-
-
-
 else
-
-
-
 
 work = Kotlin;
 
