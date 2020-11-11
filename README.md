@@ -24,7 +24,11 @@ work = Kotlin;
 
 
   
-  ![source](  https://github-readme-stats.vercel.app/api?username=Deadlegend1321&&show_icons%22true&title_color%22ffffff&icon_color%22bb2acf&text_color%22daf7dc&bg_color%22151515)
+  ![source](  https://github-readme-stats.vercel.app/api?username=Deadlegend1321&&show_icons%22true&title_color%22ffffff&icon_color%22bb2acf&text_color%22daf7dc&bg_color%22151515)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadlegend1321)
+  
+  
+
+
 
 
 
