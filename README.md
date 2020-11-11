@@ -1,7 +1,7 @@
 # Hi there 👋, you have found my treasure 
 
 final name = Mudit;
-
+                                                                        
 var work, mood;
 
 if(mood == Flutter)
@@ -20,7 +20,11 @@ work = Kotlin;
 - 📫 How to reach me: mudit1318@outlook.com
 
 
-
+ 
+ 
+    ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeadLegend)
+    
+    
 
 
   
