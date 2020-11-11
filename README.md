@@ -22,7 +22,7 @@ work = Kotlin;
 
  
  
-    ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeadLegend)
+    ![wakatime stats](https://wakatime.com/share/@DeadLegend/35424954-e04a-45f9-802f-16c9f876fcc0.svg)
     
     
 
