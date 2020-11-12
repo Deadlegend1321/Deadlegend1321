@@ -1,18 +1,8 @@
 # Hi there 👋, you have found my treasure 
 
-final name = Mudit;
-                                                                        
-var work, mood;
 
-if(mood == Flutter)
-
-work = Flutter;
-
-else
-
-work = Kotlin;
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 - 🔭 I’m currently working on Flutter
 - 👯 I’m looking to collaborate on Mobile Applications
@@ -28,7 +18,7 @@ work = Kotlin;
 
 
   
-  ![source](  https://github-readme-stats.vercel.app/api?username=Deadlegend1321&&show_icons%22true&title_color%22ffffff&icon_color%22bb2acf&text_color%22daf7dc&bg_color%22151515)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadlegend1321)
+  ![source](  https://github-readme-stats.vercel.app/api?username=deadlegend1321&show_icons=true&locale=en)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadlegend1321)
   
   
 
