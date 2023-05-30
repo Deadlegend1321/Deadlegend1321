@@ -23,7 +23,7 @@
   
 
 
-![animation_300_li9zrbvl](https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/3a2a88c0-869d-4cc3-a8f9-2fd84db56edf) ![animation_300_li9zlj3z](https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/e4149e1a-c9f6-4a1a-883b-9d158fafb010)
+![animation_300_li9zrbvl](https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/3a2a88c0-869d-4cc3-a8f9-2fd84db56edf) ![animation_300_li9zlj3z](https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/e4149e1a-c9f6-4a1a-883b-9d158fafb010)  ![animation_300_li9zsobz](https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/2e9816ff-9694-4ff7-9c45-ee77ca0214b7)
 
 ![source](https://user-images.githubusercontent.com/51445048/95010274-8cd1c580-0645-11eb-87a7-3a13f14af549.gif)
 <!--
