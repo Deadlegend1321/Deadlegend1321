@@ -17,9 +17,9 @@
 
     
     
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Deadlegend1321&show_icons=true&locale=en" alt="Deadlegend1321" width="400" height="400" /> <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/07b60968-f636-4afa-8998-f0c7dc0f42cb" width="400" height="320" />
+ <p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deadlegend1321&show_icons=true&locale=en" alt="Deadlegend1321" width="400" height="400" /> <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/07b60968-f636-4afa-8998-f0c7dc0f42cb" width="400" height="320" />
   
-<p align="left"> <img src="https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/39b61197-7521-4c23-bbe4-45086b9b920f" width="400" height="320"/> <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadlegend1321" width="400" height="320" />
+<p align="left"> <img src="https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/39b61197-7521-4c23-bbe4-45086b9b920f" width="400" height="320"/> <img align="right" alt="GIF" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deadlegend1321" width="400" height="320" />
 
 
 
