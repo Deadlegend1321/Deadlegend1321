@@ -9,9 +9,11 @@
 - 👯 I’m looking to collaborate on Creating Systems
 - ⚡ Fun fact: It works on my machine.
 - 📫 How to reach me: mudit1318@outlook.com
- <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/833c6bd9-4df2-47c2-838c-4a22857bace2" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/833c6bd9-4df2-47c2-838c-4a22857bace2" width="600" height="320" />
   
 
+ 
+ 
 
     
     
