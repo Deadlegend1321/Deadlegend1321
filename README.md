@@ -4,9 +4,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">      <a href="https://developer.android.com" target="_blank">       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/>                               </a>   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>        </a>        <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>       </a>                                          <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>      </a>    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>     </p>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Java Backend
-- 👯 I’m looking to collaborate on Creating Systems
+- 🔭 I have worked on Mobile Application Development.
+- 🌱 I’m currently learning Java Backend.
+- 👯 I’m looking to collaborate on Creating Systems.
 - ⚡ Fun fact: It works on my machine.
 - 📫 How to reach me: mudit1318@outlook.com
  <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/833c6bd9-4df2-47c2-838c-4a22857bace2" width="600" height="320" />
