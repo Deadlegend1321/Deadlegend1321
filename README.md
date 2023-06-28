@@ -23,7 +23,7 @@
 
 
 
-<p align="left"> <a href="https://app.daily.dev/Mudit1321"><img src="https://api.daily.dev/devcards/61b6854da6b54c1bb215917c479ed6aa.png?r=05h" width="400" alt="Mudit Shrivastava's Dev Card"/> <img align="right" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api" width="450" height="550" />    </a>
+<p align="left"> <a href="https://app.daily.dev/Mudit1321"><img src="https://api.daily.dev/devcards/61b6854da6b54c1bb215917c479ed6aa.png?r=05h"  width="420" height="500" alt="Mudit Shrivastava's Dev Card"/> <img align="right" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api" width="400" height="500" />    </a>
  
  
  ![wakatime stats](https://wakatime.com/share/@DeadLegend/35424954-e04a-45f9-802f-16c9f876fcc0.svg)
