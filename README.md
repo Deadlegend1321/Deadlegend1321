@@ -17,7 +17,7 @@
 
     
     
- <p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deadlegend1321&show_icons=true&locale=en" alt="Deadlegend1321" width="400" height="400" /> <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/07b60968-f636-4afa-8998-f0c7dc0f42cb" width="400" height="320" />
+ <p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deadlegend1321&show_icons=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=86400&theme=tokyonight" alt="Deadlegend1321" width="400" height="400" /> <img align="right" alt="GIF" src="https://github.com/Deadlegend1321/Uber-Driver/assets/51445048/07b60968-f636-4afa-8998-f0c7dc0f42cb" width="400" height="320" />
   
 <p align="left"> <img src="https://github.com/Deadlegend1321/Deadlegend1321/assets/51445048/39b61197-7521-4c23-bbe4-45086b9b920f" width="400" height="320"/> <img align="right" alt="GIF" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deadlegend1321" width="400" height="320" />
 
@@ -26,7 +26,7 @@
 <p align="left"> <a href="https://app.daily.dev/Mudit1321"><img src="https://api.daily.dev/devcards/61b6854da6b54c1bb215917c479ed6aa.png?r=05h"  width="420" height="500" alt="Mudit Shrivastava's Dev Card"/> <img align="right" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api" width="400" height="500" />    </a>
  
  
- ![wakatime stats](https://wakatime.com/share/@DeadLegend/35424954-e04a-45f9-802f-16c9f876fcc0.svg)
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeadLegend)](https://github.com/Deadlegend1321/github-readme-stats)
 <!--
 **Deadlegend1321/Deadlegend1321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
