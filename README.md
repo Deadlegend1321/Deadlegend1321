@@ -23,13 +23,13 @@
 
 
 
-<p align="left"> <a href="https://app.daily.dev/Mudit1321"><img src="https://api.daily.dev/devcards/61b6854da6b54c1bb215917c479ed6aa.png?r=05h"  width="420" height="500" alt="Mudit Shrivastava's Dev Card"/> <img align="right" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api" width="400" height="500" />    </a>
+<p align="right"> <a href="https://app.daily.dev/Mudit1321"><img src="https://api.daily.dev/devcards/61b6854da6b54c1bb215917c479ed6aa.png?r=05h"  width="400" height="500" alt="Mudit Shrivastava's Dev Card"/> <img align="left" alt="Readme Quotes" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeadLegend" width="400" height="500" />    </a>
  
  
- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeadLegend)
+ 
 <!--
 **Deadlegend1321/Deadlegend1321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeadLegend)
 
 
 - 🔭 I’m currently working on Flutter
