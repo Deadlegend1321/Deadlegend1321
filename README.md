@@ -14,7 +14,7 @@
 
 
 - 🔭 I have worked on Backend Development.
-- 🌱 I’m currently learning Java Backend.
+- 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on Creating Systems.
 - ⚡ Fun fact: It works on my machine.
 - 📫 How to reach me: mudit1318@outlook.com
