@@ -22,7 +22,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=B5F033&center=true&vCenter=true&width=600&lines=Java+Backend+Engineer+%F0%9F%96%A5%EF%B8%8F;Building+RAG+%26+AI+Agents+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;It+works+on+my+machine.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=B5F033&center=true&vCenter=true&width=600&lines=Java+Backend+Engineer+%F0%9F%96%A5%EF%B8%8F;Building+RAG+%26+AI+Agents+%F0%9F%A4%96;Flutter+%26+Kotlin+Mobile+Apps+%F0%9F%93%B1;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;It+works+on+my+machine.+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -62,38 +62,56 @@ public class MuditShrivastava {
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23B5F033.svg?style=for-the-badge&logo=fastapi&logoColor=black)
 
 **AI / LLM**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-Search_API-%23B5F033.svg?style=for-the-badge&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-%230668E1.svg?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-%23B5F033.svg?style=for-the-badge&logoColor=black)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-%231a1a1a.svg?style=for-the-badge&logoColor=B5F033&labelColor=1a1a1a)
 
-**Databases & Cache**
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Databases, Cache & Messaging**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-%23005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud, DevOps & Observability**
 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-%231496FF.svg?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
 
-**Tools**
+**IDEs & Tools**
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
@@ -143,16 +161,37 @@ _→ [thegitcity.com](https://thegitcity.com)_
 
 ---
 
-## `> ls ~/ai-projects`
+## `> ls ~/projects`
 
-<!-- To add a project: copy one row below, paste it at the top of the table, and update it. Keep only your best 4-6 here. -->
+### 🤖 AI Projects
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| 🏥 **medicalRAGBot** | RAG chatbot that answers medical questions grounded in your own documents instead of relying on the model's memory alone | `Python` `LangChain` `OpenAI` | ✅ Built |
-| 🔎 **Market Research Agent** | An agent that combines RAG over your own knowledge with live web search (Tavily) to produce market research | `Python` `LangChain` `OpenAI` `Tavily` `RAG` | ✅ Built |
+| 🏥 [**MedicalRAGBot**](https://github.com/Deadlegend1321/MedicalRAGBot) | RAG-based AI medical chatbot | `Python` `LangChain` `OpenAI` | ✅ Built |
+| 🔎 [**marketResearchAgent**](https://github.com/Deadlegend1321/marketResearchAgent) | Market research agent combining RAG (FAISS + sentence-transformers) with live web search via Tavily | `Python` `OpenAI` `Tavily` `FAISS` `Pandas` | ✅ Built |
 
-> 🚀 More AI projects coming soon. Once a repo is public, link its name, e.g. `[medicalRAGBot](https://github.com/Deadlegend1321/medicalRAGBot)`.
+### 🧱 Backend & System Design
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🛒 [**Bazaar**](https://github.com/Deadlegend1321/Bazaar) | Full-stack e-commerce app with a role-based admin control panel | `Java` `Spring Boot` `MySQL` |
+| 🌐 [**Microservices**](https://github.com/Deadlegend1321/Microservices) | Currency exchange/conversion microservices using Eureka, API Gateway, Docker and Kubernetes | `Java` `Spring` `Docker` `Kubernetes` |
+| 💬 [**Charcha**](https://github.com/Deadlegend1321/Charcha) | Chat app | `Java` |
+| 📝 [**Blog**](https://github.com/Deadlegend1321/Blog) | Spring Boot blog application | `Java` `Spring Boot` |
+| ⏱️ [**rate-limiter**](https://github.com/Deadlegend1321/rate-limiter) | Simple rate limiter app | `Java` |
+| 🗄️ [**Schemas**](https://github.com/Deadlegend1321/Schemas) | Database schema design based on use cases | `SQL` |
+
+### 📱 Mobile Apps
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🚗 [**Uber-Clone**](https://github.com/Deadlegend1321/Uber-Clone) / [**Uber-Driver**](https://github.com/Deadlegend1321/Uber-Driver) | Rider app and driver app | `Flutter` `Dart` |
+| 🐱 [**CvD**](https://github.com/Deadlegend1321/CvD) | Cat vs Dog detector app | `Flutter` `Dart` |
+| 🦠 [**Covid_India**](https://github.com/Deadlegend1321/Covid_India) | Corona virus tracker app for Indian states | `Kotlin` `Android` |
+| 🛍️ [**Dukaan**](https://github.com/Deadlegend1321/Dukaan) · 🔐 [**Crypty**](https://github.com/Deadlegend1321/Crypty) · 🎮 [**Minecraft-Game**](https://github.com/Deadlegend1321/Minecraft-Game) | More Flutter apps and UI experiments | `Flutter` `Dart` |
+| ✅ [**Todo**](https://github.com/Deadlegend1321/Todo) · 🌍 [**OUAT-Kotlin**](https://github.com/Deadlegend1321/OUAT-Kotlin) | Kotlin apps, including an integrated WebView with custom UI | `Kotlin` `Android` |
+
+> 🚀 More AI projects coming soon.
 
 ---
 
